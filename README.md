@@ -1,1 +1,1 @@
-# This is the final exam code for Module Data structure and Algorithm
+# This is the example code done within Module Data structure and Algorithm
