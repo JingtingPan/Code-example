@@ -1,1 +1,1 @@
-# This is the example code done within Module Data structure and Algorithm
+# the example code done within Module Data structure and Algorithm
